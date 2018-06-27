@@ -1,0 +1,7 @@
+﻿  lab4_decisions_no_classes.cpp
+c:\users\andre mottier\source\comsc110\lab4_decisions_no_classes\lab4_decisions_no_classes\lab4_decisions_no_classes.cpp(17): warning C4305: 'initializing': truncation from 'double' to 'float'
+c:\users\andre mottier\source\comsc110\lab4_decisions_no_classes\lab4_decisions_no_classes\lab4_decisions_no_classes.cpp(18): warning C4305: 'initializing': truncation from 'double' to 'float'
+c:\users\andre mottier\source\comsc110\lab4_decisions_no_classes\lab4_decisions_no_classes\lab4_decisions_no_classes.cpp(19): warning C4305: 'initializing': truncation from 'double' to 'float'
+c:\users\andre mottier\source\comsc110\lab4_decisions_no_classes\lab4_decisions_no_classes\lab4_decisions_no_classes.cpp(102): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\andre mottier\source\comsc110\lab4_decisions_no_classes\lab4_decisions_no_classes\lab4_decisions_no_classes.cpp(103): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  lab4_decisions_no_classes.vcxproj -> C:\Users\Andre Mottier\source\comsc110\lab4_decisions_no_classes\Debug\lab4_decisions_no_classes.exe
